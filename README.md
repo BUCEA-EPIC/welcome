@@ -14,7 +14,7 @@
 
 | 项目名称 | 简介 | 技术栈/标签 |
 | :--- | :--- | :--- |
-| **[智能小车开发平台 (robot-car-platform)](https://github.com/fanyuo/Intelligent-Rescue-2025)** | 一个用于2025年工程实践与创新能力大赛国赛智能救援赛道的机器人控制系统。 | `C` `Python` `STM32` `Jetson` `YOLOv5` `OpenCV` `机器人` `嵌入式` |
+| **[2025年工创赛国赛智能救援赛项](https://github.com/fanyuo/Intelligent-Rescue-2025)** | 一个用于2025年工程实践与创新能力大赛国赛智能救援赛道的机器人控制系统。 | `C` `Python` `STM32` `Jetson` `YOLOv5` `OpenCV` `机器人` `嵌入式` |
 
 ## 👥 团队协作
 

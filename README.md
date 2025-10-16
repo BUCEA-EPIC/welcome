@@ -14,11 +14,7 @@
 
 | 项目名称 | 简介 | 技术栈/标签 |
 | :--- | :--- | :--- |
-| **[智能小车开发平台 (robot-car-platform)]()** | 一个完整的嵌入式学习平台，包含底盘、驱动、传感器和上层算法，用于SLAM、路径规划等实验。 | `C/C++` `STM32` `ROS` `Arduino` |
-| **[嵌入式系统入门指南 (tutorial-embedded-basics)]()** | 从零开始的STM32嵌入式开发教程，涵盖GPIO、中断、定时器、通信协议等核心概念。 | `C` `STM32` `Tutorial` `HAL库` |
-| **[实验室设备管理平台 (lab-equipment-helper)]()** | 基于RFID的实验室设备借用与管理系统，包含硬件终端与Web管理后台。 | `Python` `Flask` `Vue.js` `MySQL` `IoT` |
-| **[314工作室常用脚本库 (library-useful-scripts)]()** | 在项目开发中积累的实用脚本合集，如环境配置、批量编译、数据解析等。 | `Python` `Bash` `Automation` |
-| **[RoboMaster机甲机器人 (project-robomaster)]()** | 为RoboMaster机甲大师赛准备的机器人代码与机械设计仓库。 | `C++` `RoboMaster` `CAN通信` `PID控制` |
+| **[智能小车开发平台 (robot-car-platform)](https://github.com/fanyuo/Intelligent-Rescue-2025)** | 一个用于2025年工程实践与创新能力大赛国赛智能救援赛道的机器人控制系统。 | `C` `Python` `STM32` `Jetson` `YOLOv5` `OpenCV` `机器人` `嵌入式` |
 
 ## 👥 团队协作
 
